@@ -45,6 +45,10 @@ This project also demonstrates basic image manipulation techniques like brightne
   - Test images shown with predicted vs actual labels  
 - **Example Output:** (Screenshots can be added here if needed)
 
+- pip install numpy opencv-python matplotlib scikit-learn tensorflow
+jupyter notebook
+
+
 ---
 
 ## How to Run
